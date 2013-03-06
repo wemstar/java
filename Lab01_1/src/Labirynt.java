@@ -16,7 +16,7 @@ public class Labirynt {
 	 */
 	public Labirynt(int x,int y)
 	{
-		labir=new int[y][x];
+		labir=new int[y+1][x+1];
 		szerokosc=x;
 		wysokosc=y;
 		
@@ -64,6 +64,22 @@ public class Labirynt {
 		}
 		return s;
 		
+	}
+	public void ustawWartosc(int x,int y,int wart)
+	{
+		labir[y][x]=wart;
+		
+	}
+	public boolean moznaRuszyc(int x,int y)
+	{
+		if(x<szerokosc && x>=0 && y<wysokosc &&y >=0 && labir[y][x]>-1) return true;
+		
+		return false;
+	}
+	public boolean koniec(int x,int y)
+	{
+ 		if(x==szerokosc-1&&y==wysokosc-1)return true;
+		return false;
 	}
 	
 	private int[][] labir;

@@ -7,13 +7,26 @@ public class Lab01
 		int[] tmp={7,2,4,3,6,8,1,5,9,5,1,1};
 		Tablica tab=new Tablica(100);
 		System.out.println("liczba jest w mjejscu "+tab.start(3));
+		
+		
 
 	}
-}
+};
+
+
+
+;lskdflkas
+
+
 
 
 class Tablica
 {
+	/**
+	 * sdflkajlfjslkj
+	 * @param  tablica
+	 * @return
+	 */
 	public Tablica(int [] tablica)
 	{
 		c=tablica;
@@ -22,7 +35,7 @@ class Tablica
 	}
 	public Tablica(int n)
 	{
-		c=new int[n];
+		c=new int[[n]];
 		for(int i=0;i<n;++i)
 		{
 			c[i]=i;

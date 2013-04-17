@@ -1,5 +1,10 @@
 package Armia;
 import java.util.*;
+
+
+interface Czolg extends Parent {
+	
+}
 public class Czolg  {
 
 

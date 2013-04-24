@@ -1,16 +1,26 @@
 import java.awt.*;
 import java.awt.geom.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+import java.util.*;
+
 
 class lab07 {
 	
 	public static void main(String[] args) {
 		
+	EventQueue.invokeLater(new Runnable()
+		{
+			public void run()
+			{
+				JFrame frame=new Pastwisko();
+				frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+				frame.setVisible(true);
 
-		Pastwisko pole=new Pastwisko(100,100);
-		pole.add(new Owca(1,1));
-		pole.add(new Wilk(0,25));
+			}
+		});
 		
-		pole.orzyj();
 		
 	}
 }

@@ -16,6 +16,9 @@ class kotek extends Obiekt {
 		double y=Math.signum(polozenie.getY()-cel.getY())*(-1);
 		polozenie.setLocation(polozenie.getX()+x*vel.nextInt(8),polozenie.getY()+y*vel.nextInt(8));
 
+
+		
+
 	}
 
 

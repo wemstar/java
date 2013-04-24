@@ -34,7 +34,7 @@ class lab07Frame extends JFrame
 		Swiatlo cel=new Swiatlo(400,500,10);
 		component.add(cel);
 		Random losowacz=new Random();
-		for(int i=0;i<losowacz.nextInt(25);++i)
+		for(int i=0;i<losowacz.nextInt(25)+25;++i)
 		{
 			component.add(new kotek(losowacz.nextInt(800),losowacz.nextInt(800),cel) );
 		}

@@ -1,16 +1,9 @@
-import java.awt.*;
-import java.awt.geom.*;
-
 class Owca extends Ssak {
 	
-	public Owca(double x,double y){
-		super(x,y);
-		setSeeRadius(20);
-		setVelocity(1);
-	}
-	public boolean isPredator()
+	public Owca(double x,double y)
 	{
-		return false;
+		super(x,y,15,60);
 	}
 
+	public boolean isPredator(){return false;}
 }

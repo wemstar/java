@@ -1,0 +1,1269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"zw",
+				"zwierz"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"zwi",
+				"zwierz"
+			],
+			[
+				"set",
+				"setLocation"
+			],
+			[
+				"pu",
+				"punkt"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"ch",
+				"chase"
+			],
+			[
+				"get",
+				"getPosition"
+			],
+			[
+				"fin",
+				"findBuddies"
+			],
+			[
+				"z",
+				"zwierz"
+			],
+			[
+				"po",
+				"getPosition"
+			],
+			[
+				"De",
+				"DEFAULT_HEIGHT"
+			],
+			[
+				"Pas",
+				"PastwiskoComponent"
+			],
+			[
+				"zwie",
+				"zwierz"
+			],
+			[
+				"fo",
+				"fore	for (each)"
+			],
+			[
+				"for",
+				"fore	for (each)"
+			],
+			[
+				"doubl",
+				"Double"
+			],
+			[
+				"cha",
+				"chaseMove"
+			],
+			[
+				"pl",
+				"polozenie"
+			],
+			[
+				"La",
+				"lab07Component"
+			],
+			[
+				"Gr",
+				"Graphic2D"
+			],
+			[
+				"Get",
+				"getX"
+			],
+			[
+				"pa",
+				"Pastwisko"
+			],
+			[
+				"Pa",
+				"PastwiskoComponent"
+			],
+			[
+				"sw",
+				"swing	Swing"
+			],
+			[
+				"bu",
+				"buddies"
+			],
+			[
+				"el",
+				"el	else"
+			],
+			[
+				"bud",
+				"buddies"
+			],
+			[
+				"v",
+				"Vector"
+			],
+			[
+				"G",
+				"getX"
+			],
+			[
+				"do",
+				"Double"
+			],
+			[
+				"zi",
+				"zwierze"
+			],
+			[
+				"Ex",
+				"Exception"
+			],
+			[
+				"we",
+				"Wektor"
+			],
+			[
+				"r",
+				"rozmiar"
+			],
+			[
+				"St",
+				"StrongBuilder"
+			],
+			[
+				"roz",
+				"rozkazy"
+			],
+			[
+				"S",
+				"StingBuilder"
+			],
+			[
+				"C",
+				"CentrumDowodzenia"
+			],
+			[
+				"ula",
+				"ulamek3"
+			],
+			[
+				"Cr",
+				"CRC32"
+			],
+			[
+				"tab",
+				"tabMozliwe"
+			],
+			[
+				"p",
+				"p	print"
+			],
+			[
+				"ne",
+				"newStaff"
+			],
+			[
+				"em",
+				"Employee"
+			],
+			[
+				"Zi",
+				"ZipTestFrame"
+			],
+			[
+				"th",
+				"throws"
+			],
+			[
+				"m",
+				"m	method"
+			],
+			[
+				"Staff",
+				"newStaff"
+			],
+			[
+				"value",
+				"valueEdit"
+			],
+			[
+				"valu",
+				"valueSpin"
+			],
+			[
+				"Q",
+				"QString"
+			],
+			[
+				"mai",
+				"mainLayout"
+			],
+			[
+				"tex",
+				"textBrowser"
+			],
+			[
+				"cl",
+				"clearButton"
+			],
+			[
+				"a",
+				"addButton"
+			],
+			[
+				"vali",
+				"valueSpin"
+			],
+			[
+				"i",
+				"inc	#include \"…\""
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"va",
+				"valueSpin"
+			],
+			[
+				"info",
+				"infoEdit"
+			],
+			[
+				"val",
+				"valueBitton"
+			],
+			[
+				"mej",
+				"mejesce"
+			],
+			[
+				"dzie",
+				"dzielnik"
+			],
+			[
+				"dzi",
+				"dzielnik"
+			],
+			[
+				"dz",
+				"dzielnik"
+			],
+			[
+				"mj",
+				"mejesce"
+			],
+			[
+				"pozy",
+				"pozycja1"
+			],
+			[
+				"sy",
+				"System"
+			],
+			[
+				"File",
+				"FileOutputStream"
+			],
+			[
+				"pro",
+				"propertiesFile"
+			],
+			[
+				"de",
+				"defaultSettings"
+			],
+			[
+				"use",
+				"userDir"
+			],
+			[
+				"Ac",
+				"ActionTest"
+			],
+			[
+				"pla",
+				"PlafTest"
+			],
+			[
+				"Co",
+				"ColorAction"
+			],
+			[
+				"blu",
+				"blueButton"
+			],
+			[
+				"Bu",
+				"ButtonTest"
+			],
+			[
+				"ge",
+				"getWidth"
+			],
+			[
+				"lef",
+				"leftX"
+			],
+			[
+				"ce",
+				"centerY"
+			],
+			[
+				"R",
+				"Rectangle2D"
+			],
+			[
+				"Not",
+				"NotHelloWoeldPanel"
+			],
+			[
+				"Me",
+				"MESSAGE_Y"
+			],
+			[
+				"scre",
+				"screenSize"
+			],
+			[
+				"h",
+				"hireDay"
+			],
+			[
+				"leng",
+				"length"
+			],
+			[
+				"getC",
+				"getComponentType"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"ger",
+				"getModifiers"
+			],
+			[
+				"class",
+				"Class"
+			],
+			[
+				"oth",
+				"otherObject"
+			],
+			[
+				"o",
+				"otherObject"
+			],
+			[
+				"al",
+				"alice3"
+			],
+			[
+				"ali",
+				"alice2"
+			],
+			[
+				"H",
+				"hireDay"
+			],
+			[
+				"Mo",
+				"MovieContainer"
+			],
+			[
+				"Magi",
+				"MAGIC_NUMBER"
+			],
+			[
+				"try",
+				"try	Try/Except/Finally"
+			],
+			[
+				"w",
+				"writeInt16"
+			],
+			[
+				"__",
+				"__movies"
+			],
+			[
+				"bi",
+				"bisect_left"
+			],
+			[
+				"no",
+				"None"
+			],
+			[
+				"NEW",
+				"NEWPARA"
+			],
+			[
+				"ac",
+				"acquired"
+			],
+			[
+				"yea",
+				"yearSpinBox"
+			],
+			[
+				"notes",
+				"notesTextEdit"
+			],
+			[
+				"acq",
+				"acquiredDateEdit"
+			],
+			[
+				"pyqt",
+				"pyqtSignature"
+			],
+			[
+				"N",
+				"NoFocus"
+			],
+			[
+				"zoom",
+				"zoomSpinBox"
+			],
+			[
+				"zoo",
+				"zoomSpinBox"
+			],
+			[
+				"mi",
+				"mirroredvertically"
+			],
+			[
+				"mirrored",
+				"mirroredhorizontally"
+			],
+			[
+				"edit",
+				"editMirrorVertical"
+			],
+			[
+				"mir",
+				"mirroredhorizontally"
+			],
+			[
+				"ima",
+				"image"
+			],
+			[
+				"is",
+				"isNull"
+			],
+			[
+				"QFI",
+				"QFileDialog"
+			],
+			[
+				"No",
+				"None"
+			],
+			[
+				"di",
+				"dirty"
+			],
+			[
+				"Image",
+				"image"
+			],
+			[
+				"setCh",
+				"setChecked"
+			],
+			[
+				"new",
+				"newimagedlg"
+			],
+			[
+				"sef",
+				"self"
+			],
+			[
+				"fileM",
+				"fileMenu"
+			],
+			[
+				"fname",
+				"fname"
+			],
+			[
+				"fileMen",
+				"fileMenuActions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lab07_02/lab07.java",
+			"settings":
+			{
+				"buffer_size": 385,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab07_02/Ssak.java",
+			"settings":
+			{
+				"buffer_size": 1490,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab07_02/Wilk.java",
+			"settings":
+			{
+				"buffer_size": 137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab07_02/Owca.java",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab07_02/Pastwisko.java",
+			"settings":
+			{
+				"buffer_size": 769,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lab07_02/PastwiskoComponent.java",
+			"settings":
+			{
+				"buffer_size": 1565,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"gitpus",
+				"Git: Push"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"ad",
+				"Git: Add Current File"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"gitco",
+				"Git: Commit"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"bran",
+				"Git: Change Branch"
+			],
+			[
+				"gita",
+				"Git: Add Current File"
+			],
+			[
+				"gitC",
+				"Git: Commit"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitpul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git",
+				"Git: Show Tags"
+			],
+			[
+				"gitdi",
+				"Git: Diff All"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"contro",
+				"Package Control: List Packages"
+			],
+			[
+				"codei",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"lint",
+				"SublimeLinter: Save-Only Linting"
+			],
+			[
+				"line",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"bra",
+				"Git: Push Current Branch"
+			],
+			[
+				"giti",
+				"Git: Init"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"gitp",
+				"Git: Push Current Branch"
+			],
+			[
+				"githu",
+				"GitHubinator Blame"
+			],
+			[
+				"gitci",
+				"Git: Commit"
+			],
+			[
+				"gith",
+				"GitHubinator"
+			],
+			[
+				"gitre",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"gitb",
+				"Git: Pull Current Branch"
+			],
+			[
+				"gir",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"gitbr",
+				"Git: New Branch"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"fe",
+				"Git: Fetch"
+			],
+			[
+				"gitfe",
+				"Git: Fetch"
+			],
+			[
+				"gitn",
+				"Git: New Branch"
+			],
+			[
+				"gi",
+				"Github: Open File"
+			],
+			[
+				"unins",
+				"GitHub: Open Remote URL in Browser"
+			],
+			[
+				"github",
+				"Github: Blame"
+			],
+			[
+				"Q",
+				"PyQt Search: Search Selection In Riverban"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/wemstar/Laboratoria/java/lab07/kotek.java",
+		"/home/wemstar/Laboratoria/java/lab07/Obiekt.java",
+		"/home/wemstar/Laboratoria/java/lab07/lab07.java",
+		"/home/wemstar/Laboratoria/java/lab07/Swiatlo.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/lab07.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/Wilk.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/Ssak.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/PastwiskoComponent.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/Owca.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/Pastwisko.java",
+		"/home/wemstar/Laboratoria/java/lab07_02/ssak.java, wilki.java",
+		"/home/wemstar/Laboratoria/java/lab06_02/wyjatki.java",
+		"/home/wemstar/Laboratoria/java/lab06_02/test.txt",
+		"/home/wemstar/Laboratoria/java/lab06_02/Wcztanie.java",
+		"/home/wemstar/Laboratoria/java/lab05_2/Wektor.java",
+		"/home/wemstar/Laboratoria/java/java.sublime-project",
+		"/home/wemstar/Laboratoria/java/lab05_2/Zespolone.java",
+		"/home/wemstar/Laboratoria/java/lab04_2/Armia/Czolg.java",
+		"/home/wemstar/Laboratoria/java/lab04_2/Armia/CentrumDowodzenia.java",
+		"/home/wemstar/Laboratoria/java/lab04_2/Armia/Rozkaz.java",
+		"/home/wemstar/Laboratoria/java/lab04_2/lab04.java",
+		"/home/wemstar/Laboratoria/java/lab03_1/Lab03.java",
+		"/home/wemstar/Laboratoria/Qt/lab02_3/Kompresor..cpp",
+		"/home/wemstar/.config/sublime-text-2/Packages/User/QT.sublime-snippet",
+		"/home/wemstar/Laboratoria/Qt/lab02_3/Kompresor.h",
+		"/home/wemstar/Laboratoria/Qt/lab02_3/main.cpp",
+		"/home/wemstar/java/SerialCloneTest.java",
+		"/home/wemstar/java/FindDirectories.java",
+		"/home/wemstar/java/NIOTest.java",
+		"/home/wemstar/java/java2/Employee.java",
+		"/home/wemstar/java/java2/SerialCloneable.java",
+		"/home/wemstar/java/DOMTreeTest.java",
+		"/home/wemstar/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wemstar/Laboratoria/java/java02_2/Piasek.java",
+		"/home/wemstar/java/java2/Manager.java",
+		"/home/wemstar/java/ObjectStreamTest.java",
+		"/home/wemstar/java/ZipTest.java",
+		"/home/wemstar/java/RandomFIleTest.java",
+		"/home/wemstar/java/TextFileTest.java",
+		"/home/wemstar/Laboratoria/java/main.cpp",
+		"/home/wemstar/Laboratoria/java/cos.java",
+		"/home/wemstar/Laboratoria/java/lab01_2/Lab01.java",
+		"/home/wemstar/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/wemstar/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/wemstar/Laboratoria/Qt/lab01_2/Tabelka.h",
+		"/home/wemstar/Laboratoria/Qt/lab01_2/main.cpp",
+		"/home/wemstar/Laboratoria/Qt/lab01_2/Tabelka.cpp",
+		"/home/wemstar/Laboratoria/Qt/main.cpp",
+		"/home/wemstar/Qt/hello.cpp",
+		"/home/wemstar/Qt/test2/Writter.cpp",
+		"/home/wemstar/Qt/Qt",
+		"/home/wemstar/Qt/test2/untitled.sublime-project",
+		"/home/wemstar/Qt/lab2b/Lista.h",
+		"/home/wemstar/Qt/lab2b/main.cpp",
+		"/home/wemstar/Qt/lab2b/Lista.cpp",
+		"/home/wemstar/Qt/lab2/Browser.h",
+		"/home/wemstar/Qt/lab2/main.cpp",
+		"/home/wemstar/Qt/lab2/lab2.pro",
+		"/home/wemstar/Qt/lab2/Browser.cpp",
+		"/home/wemstar/Qt/test2/main.cpp",
+		"/home/wemstar/Qt/test2/Writter.h",
+		"/home/wemstar/Qt/test2/untitled.sublime-workspace",
+		"/home/wemstar/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/home/wemstar/.config/sublime-text-2/Packages/User/QtBuild.sh",
+		"/home/wemstar/.config/sublime-text-2/Packages/User/Qt.sublime-build",
+		"/home/wemstar/Qt/Qt.pro",
+		"/home/wemstar/java/PropertiesTest.java",
+		"/home/wemstar/Qt/Makefile",
+		"/home/wemstar/java/ActionTest.java",
+		"/home/wemstar/java/PlafTest.java",
+		"/home/wemstar/java/ButtonTest.java",
+		"/home/wemstar/java/ImageTest.java",
+		"/home/wemstar/java/FontTest.java",
+		"/home/wemstar/java/DrawTest.java",
+		"/home/wemstar/java/NotHelloWoeld.java",
+		"/home/wemstar/java/swang/SizedFrame.java",
+		"/home/wemstar/java/SizedFrameTest.java",
+		"/home/wemstar/java/InnerClassTest.java",
+		"/home/wemstar/java/ManagerTest.java",
+		"/home/wemstar/java/CloneTest.java",
+		"/home/wemstar/java/ArrayGrowTest.java",
+		"/home/wemstar/java/ObjectAnalyzerTest.java",
+		"/home/wemstar/HTML/index.html",
+		"/home/wemstar/java/com/horstmann/corejava/Employee.java",
+		"/home/wemstar/java/com/horstmann/corejava/Employee.class",
+		"/home/wemstar/java/ReflectionTest.java",
+		"/home/wemstar/java/EnumTest.java",
+		"/home/wemstar/java/com/horstmann/corejava/Student.java",
+		"/home/wemstar/java/Person.java",
+		"/home/wemstar/java/com/horstmann/corejava/Manager.java",
+		"/home/wemstar/java/ArrayListTest.java",
+		"/home/wemstar/java/EqualsTest.java",
+		"/home/wemstar/java/PersonTest.java",
+		"/home/wemstar/java/PackageTest.java",
+		"/home/wemstar/java/Employee.java",
+		"/home/wemstar/java/Hello.java",
+		"/home/wemstar/java/Second.java",
+		"/home/wemstar/java/First.java",
+		"/home/wemstar/PyQt/moviedata.py",
+		"/home/wemstar/PyQt/adddeditmociedlg.py",
+		"/home/wemstar/PyQt/PenPropertiesDlg.py",
+		"/home/wemstar/PyQt/findandreplacedlg.py",
+		"/home/wemstar/PyQt/image_changer.py",
+		"/home/wemstar/PyQt/StringListDlg.py",
+		"/home/wemstar/PyQt/Change_number.py",
+		"/home/wemstar/PyQt/rates.py",
+		"/home/wemstar/PyQt/Curency.py",
+		"/home/wemstar/PyQt/Pop_up_alert.py",
+		"/home/wemstar/test/manipulator/main.cpp",
+		"/home/wemstar/test/lab_opcje/options.h",
+		"/home/wemstar/test/lab_opcje/main.cpp",
+		"/home/wemstar/test/lab.h",
+		"/home/wemstar/test/shared_ptr.h",
+		"/home/wemstar/test/array.h",
+		"/home/wemstar/test/Type_t.h",
+		"/home/wemstar/test/main.cpp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lab07Component",
+			"getKordy",
+			"Graphic2D",
+			"Panel",
+			"lab07Panel",
+			"zwierze",
+			"wsp",
+			"3",
+			"Set<Double>",
+			"Zespol",
+			"x",
+			"StrongBuilder",
+			"StingBuilder",
+			"index",
+			"file",
+			"fileMenu",
+			"ActionEvent",
+			"()\n",
+			"getCHildNodes",
+			"NodeLiset",
+			"b",
+			"IOException",
+			"currendTimeMillis",
+			"newstaff",
+			"DataOutput",
+			"DataOutpu",
+			"RandomFIleTest",
+			"IOExeption",
+			"GregorianClaendar",
+			"int",
+			"isCheck",
+			"QHBoxLayout",
+			"Qwidget",
+			"buttonBox",
+			"value",
+			"valueBitton",
+			"Browser",
+			"quit",
+			"Quit",
+			"quit",
+			"QObject",
+			"QWidget",
+			"dja",
+			"Q",
+			"QPushButton",
+			"Q",
+			"but",
+			"But",
+			"but",
+			"tip",
+			"mjejscu",
+			"c",
+			"Stirng",
+			"lenght",
+			"slef",
+			"Overwrite"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"String",
+			"length",
+			"slef"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lab07_02/lab07.java",
+					"settings":
+					{
+						"buffer_size": 385,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lab07_02/Ssak.java",
+					"settings":
+					{
+						"buffer_size": 1490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								785,
+								785
+							],
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lab07_02/Wilk.java",
+					"settings":
+					{
+						"buffer_size": 137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lab07_02/Owca.java",
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								80,
+								80
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lab07_02/Pastwisko.java",
+					"settings":
+					{
+						"buffer_size": 769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lab07_02/PastwiskoComponent.java",
+					"settings":
+					{
+						"buffer_size": 1565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1414,
+								1414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 153.0
+	},
+	"output.git":
+	{
+		"height": 304.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"w",
+				"/home/wemstar/Qt/test2/Writter.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/wemstar/Laboratoria/java/java.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

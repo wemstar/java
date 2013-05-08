@@ -1,0 +1,3 @@
+sylwek;macura;15
+andrzej;ktos;20
+marek;rys;80
